@@ -271,3 +271,12 @@
     });
   }
 })();
+
+/* тень шапки при прокрутке */
+(function () {
+  var top = document.querySelector('.top');
+  if (!top) return;
+  function onScroll() { top.classList.toggle('is-scrolled', window.scrollY > 8); }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+})();
