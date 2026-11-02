@@ -7,7 +7,7 @@ name="$1"
 src="../$name"
 [[ -n "$name" && -d "$src" ]] || { echo "Нет папки $src"; exit 1; }
 rsync -a --delete \
-  --exclude '.DS_Store' --exclude '.git*' --exclude '.htaccess' --exclude '*.php' \
+  --exclude '.DS_Store' --exclude '.git*' --exclude '.claude' --exclude '.htaccess' --exclude '*.php' \
   --exclude '*.md' --exclude '*.zip' --exclude '*.sh' --exclude '*.pdf' --exclude '*.docx' \
   --exclude 'img/raw' --exclude 'old' --exclude 'robots.txt' --exclude 'sitemap.xml' \
   "$src/" "$name/"
