@@ -1,0 +1,24 @@
+Фото сайта Партнёра (обновлено 02.11.2026). Все с Викисклада (commons.wikimedia.org).
+На сайте показаны в чёрно-белом виде через CSS. Это чужие стройки: они иллюстрируют виды работ,
+а не объекты Партнёра (подпись об этом стоит на страницах «Направления» и «Проекты»).
+
+Лицензия CC0, автора указывать не нужно:
+  reka02.jpg      File:Moscow, Reka-3 construction, Apr 2026 02.jpg
+  reka05.jpg      File:Moscow, Reka-3 construction, Apr 2026 05.jpg
+  reka06.jpg      File:Moscow, Reka-3 construction, Apr 2026 06.jpg
+  krok01.jpg      File:Moscow, Krasny Oktyabr, new construction, Aug 2026 01.jpg
+  chagal22.jpg    File:Moscow, Chagal construction view from Nagatinskaya Embankment Mar 2026 22.jpg
+  pavel10.jpg     File:Moscow, construction of Mypriority Paveletskaya, Oct 2025 10.jpg
+  zhukov19.jpg    File:Moscow, Zhukov Lane, Dubinin-Sky construction site, May 2025 19.jpg
+  kamaz03.jpg     File:Moscow, Kamaz-43253 with crane loading, July 2026 03.jpg
+  burdenko04.jpg  File:Moscow, Burdenko 12 reconstruction, Sept 2026 04.jpg
+  kosmo00.jpg     File:Moscow, Kosmodamianskaya 46-50 scaffolding, Aug 2026 00.jpg
+
+Лицензия CC BY 2.0, автора указывать обязательно (подпись стоит под фото на странице «Направления»):
+  vnutri.jpg      File:Installation of steel framing for ticket machines in the future LIRR passenger concourse. (CM014B, 09-24-2018) (44925115452).jpg
+                  Автор: MTA Capital Construction Mega Projects (Flickr). Из файла убраны метаданные с геоданными.
+
+Ни одно фото не повторяет фото сайтов Паритета, Джоли и Атриума.
+
+Главный экран (02.11.2026):
+  hero.jpg        File:Moscow, Kvartal Serebryany Bor construction, June 2026 02.jpg (CC0)

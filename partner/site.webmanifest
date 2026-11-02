@@ -1,0 +1,13 @@
+{
+  "name": "Партнёр",
+  "short_name": "Партнёр",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#D8D8D3",
+  "theme_color": "#161616",
+  "icons": [
+    { "src": "/favicon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
